@@ -9,7 +9,7 @@ __Getting a project started with Webpack and Babel__ - [Gabi Purcaru](https://gi
 - [Slides](https://github.com/react-bucharest/slides/blob/master/assets/june-2016/Bootstrapping%20a%20React%20project%20with%20ES6.pdf)
 
 __Introduction to Redux__ — [Dan Jipa](https://github.com/therealthing)
-- [Slides](https://github.com/react-bucharest/slides/blob/master/dan-jipa-redux-react.pdf)
+- [Slides](https://github.com/react-bucharest/slides/blob/master/assets/june-2016/dan-jipa-redux-react.pdf)
 
 ---
 
