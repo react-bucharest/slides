@@ -1,11 +1,26 @@
 # React.js Bucharest Meetup Slides
 
+### React.js meetup #5 – September 20, 2016
+
+__The future of React Cosmos__ — [Bogdan Ștefan](https://github.com/bogdanjsx)
+- [Slides](https://github.com/react-bucharest/slides/blob/master/assets/sept-2016/bogdan-stefan-the-future-of-react-cosmos.pdf)
+- [Code](https://github.com/skidding/react-cosmos)
+
+__Visual Regression Testing__ — [Adela Istrate](https://github.com/adela-istrate-hs)
+- [Slides](https://github.com/react-bucharest/slides/blob/master/assets/sept-2016/adela-istrate-visual-regression-testing.pdf)
+- [Code](https://github.com/react-bucharest/mugshot-demo)
+
+__Just another React native talk__ — [Catalin Miron](https://github.com/catalinmiron)
+- [Slides](https://github.com/react-bucharest/slides/blob/master/assets/sept-2016/catalin-miron-just-another-react-native-talk.pdf)
+- [Code](https://github.com/catalinmiron/react-native-dribbble-app)
+
+---
+
 ### React.js live sessions: A new beginning - June 14, 2016
 
 All code presented in the live sessions is pushed to a shared repo: [react-bucharest/hello-world](https://github.com/react-bucharest/hello-world)
 
-__Getting a project started with Webpack and Babel__ - [Gabi Purcaru](https://github.com/gabipurcaru)
-
+__Getting a project started with Webpack and Babel__ — [Gabi Purcaru](https://github.com/gabipurcaru)
 - [Slides](https://github.com/react-bucharest/slides/blob/master/assets/june-2016/Bootstrapping%20a%20React%20project%20with%20ES6.pdf)
 
 __Introduction to Redux__ — [Dan Jipa](https://github.com/therealthing)
