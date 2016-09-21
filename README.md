@@ -4,9 +4,11 @@
 
 __The future of React Cosmos__ — [Bogdan Ștefan](https://github.com/bogdanjsx)
 - [Slides](https://github.com/react-bucharest/slides/blob/master/assets/sept-2016/bogdan-stefan-the-future-of-react-cosmos.pdf)
+- [Code](https://github.com/skidding/react-cosmos)
 
 __Visual Regression Testing__ — [Adela Istrate](https://github.com/adela-istrate-hs)
 - [Slides](https://github.com/react-bucharest/slides/blob/master/assets/sept-2016/adela-istrate-visual-regression-testing.pdf)
+- [Code](https://github.com/react-bucharest/mugshot-demo)
 
 __Another React Native talk :)__ — [Catalin Miron](https://github.com/catalinmiron)
 - [Code](https://github.com/catalinmiron/react-native-dribbble-app)
