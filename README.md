@@ -10,7 +10,8 @@ __Visual Regression Testing__ — [Adela Istrate](https://github.com/adela-istra
 - [Slides](https://github.com/react-bucharest/slides/blob/master/assets/sept-2016/adela-istrate-visual-regression-testing.pdf)
 - [Code](https://github.com/react-bucharest/mugshot-demo)
 
-__Another React Native talk :)__ — [Catalin Miron](https://github.com/catalinmiron)
+__Just another React native talk__ — [Catalin Miron](https://github.com/catalinmiron)
+- [Slides](https://github.com/react-bucharest/slides/blob/master/assets/sept-2016/catalin-miron-just-another-react-native-talk.pdf)
 - [Code](https://github.com/catalinmiron/react-native-dribbble-app)
 
 ---
