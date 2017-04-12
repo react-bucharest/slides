@@ -1,5 +1,18 @@
 # React.js Bucharest Meetup Slides
 
+### React.js meetup #6 – April 11, 2017
+
+__React VR 101__ — [Valentin Radulescu](https://github.com/RadValentin)
+- [Slides](https://docs.google.com/presentation/d/1_ookC72csAi3UixYIsd9wxGZW83B1gTMntvNZVcAjy8/edit?usp=sharing)
+- [Code](https://github.com/RadValentin/put-on-the-glasses-vr)
+
+__Expo & SnackExpo__ — [Catalin Miron](https://github.com/catalinmiron)
+- [Slides](http://slides.com/catalinmiron/deck-1#/)
+
+__Elm for React developers__ — [Bogdan Zaharia](https://github.com/zaboco)
+- [Slides](https://speakerdeck.com/zaboco/elm-for-react-developers)
+- [Code](https://github.com/zaboco/elm-and-react)
+
 ### React.js meetup #5 – September 20, 2016
 
 __The future of React Cosmos__ — [Bogdan Ștefan](https://github.com/bogdanjsx)
