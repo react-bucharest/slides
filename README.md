@@ -13,6 +13,8 @@ __Elm for React developers__ — [Bogdan Zaharia](https://github.com/zaboco)
 - [Slides](https://speakerdeck.com/zaboco/elm-for-react-developers)
 - [Code](https://github.com/zaboco/elm-and-react)
 
+---
+
 ### React.js meetup #5 – September 20, 2016
 
 __The future of React Cosmos__ — [Bogdan Ștefan](https://github.com/bogdanjsx)
